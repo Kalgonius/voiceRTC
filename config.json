@@ -1,8 +1,8 @@
 {
-  "socketURL": "/",
+  "socketURL": "https://brazilrp.herokuapp.com:443/",
   "socketMessageEvent": "voice",
   "socketCustomEvent": "RTCMultiConnection-Custom-Message",
-  "port": "9001",
+  "port": "443",
   "enableLogs": "true",
   "autoRebootServerOnFailure": "true"
 }

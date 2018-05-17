@@ -1,5 +1,5 @@
 {
-  "socketURL": "https://brazilrp.herokuapp.com:9001/",
+  "socketURL": "/",
   "socketMessageEvent": "voice",
   "socketCustomEvent": "RTCMultiConnection-Custom-Message",
   "port": "9001",

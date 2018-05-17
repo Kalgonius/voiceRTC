@@ -2,7 +2,7 @@
   "socketURL": "/",
   "socketMessageEvent": "voice",
   "socketCustomEvent": "RTCMultiConnection-Custom-Message",
-  "port": "443",
+  "port": "9001",
   "enableLogs": "true",
   "autoRebootServerOnFailure": "true"
 }

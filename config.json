@@ -1,8 +1,8 @@
 {
   "socketURL": "/",
-  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketMessageEvent": "voice",
   "socketCustomEvent": "RTCMultiConnection-Custom-Message",
-  "port": "9001",
+  "port": "443",
   "enableLogs": "true",
   "autoRebootServerOnFailure": "true"
 }
